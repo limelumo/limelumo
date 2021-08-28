@@ -1,3 +1,5 @@
+# Lihu Kim
+
 ### Hi there 😎
 
 I'm Lihu Kim, a Frontend Web Developer(former Editorial Designer) from South Korea. <br>
