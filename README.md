@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=150&section=header&text=Hey%20I'm%20Lihu🦄&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=150&section=header&text=Hey%20I'm%20Lihu🦄&fontSize=50&animation=twinkling&desc=🤸‍♀️🎧💻🎥📚✈&descSize=18&descAlignY=80&fontAlignY=45)
 
 #### Hi there 😎
 
