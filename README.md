@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-
-# Lihu Kim
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=150&section=header&text=Hey%20I'm%20Lihu🦄&fontSize=50&animation=twinkling)
 
 #### Hi there 😎
 
