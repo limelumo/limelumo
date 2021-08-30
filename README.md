@@ -2,7 +2,7 @@
 
 #### Hi there 😎
 
-I'm **Lihu Kim**, a *Frontend Web Developer*(former Editorial Designer🎨) from South Korea. <br>
+I'm **Lihu Kim**, a *Front-end Web Developer*(former Editorial Designer🎨) from South Korea. <br>
 I enjoy learning languages, frameworks(of course!🙋‍♀️), also interested in UI/UX and design in general. 
 <br><br>
 
