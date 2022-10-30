@@ -20,7 +20,7 @@ Currently Learning
 
 Interested In
 --------------
-<img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=D3.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=Three.js&logoColor=white"> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limelumo&show_icons=true&theme=radical)
 
